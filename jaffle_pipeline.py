@@ -77,7 +77,7 @@ def main():
         pipeline_name="optimized_jaffle_pipeline",
         destination="duckdb",
         dataset_name="optimized_jaffle_data",
-        dev_mode=True
+        #dev_mode=true
     )
     start = time.time()
     load_info = pipeline.run(jaffle_shop_source())
