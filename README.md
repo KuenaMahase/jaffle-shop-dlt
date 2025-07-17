@@ -1,9 +1,10 @@
 ---
+
 ```markdown
 # Jaffle Shop DLT Pipeline
 
 This project demonstrates how to deploy a **data pipeline** using [`dlt`](https://github.com/dlt-hub/dlt) and **GitHub Actions** for automation. It extracts, normalizes, and loads data from a sample Jaffle Shop API into a local DuckDB database.
-
+````
 ---
 
 ## Project Overview
@@ -88,7 +89,7 @@ This project is deployed via GitHub Actions:
 
 ---
 
-````
+
 
 ---
 
