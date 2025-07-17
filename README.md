@@ -1,3 +1,4 @@
+---
 ```markdown
 # Jaffle Shop DLT Pipeline
 
@@ -87,8 +88,6 @@ This project is deployed via GitHub Actions:
 
 ---
 
-**Note:** This project is part of the **DLT Advanced Course** and is intended for educational purposes.
-
 ````
 
 ---
@@ -111,4 +110,4 @@ This project is deployed via GitHub Actions:
    git push origin main
    ```
 
-Let me know if you'd like to include a screenshot, badge, or diagram for bonus clarity.
+
